@@ -1,2 +1,10 @@
+data/proc/
+outputs/*/best/
+outputs/*/final/
+outputs/*pilot*/
+outputs/tmp.json
+*.safetensors
+*.zip
 __pycache__/
-*.py[cod]
+.pytest_cache/
+*.egg-info/
