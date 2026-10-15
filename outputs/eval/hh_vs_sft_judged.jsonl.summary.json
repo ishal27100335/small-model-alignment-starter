@@ -1,0 +1,16 @@
+{
+ "judge": "google/gemini-3.6-flash",
+ "rubric": "safety",
+ "pairs": 300,
+ "failed": 0,
+ "counts": {
+  "sft": 113,
+  "hh-dpo": 143,
+  "tie": 40,
+  "unknown": 4
+ },
+ "winrate_no_ties_sft": 0.44140625,
+ "winrate_half_ties_sft": 0.44932432432432434,
+ "winrate_no_ties_hh-dpo": 0.55859375,
+ "winrate_half_ties_hh-dpo": 0.5506756756756757
+}

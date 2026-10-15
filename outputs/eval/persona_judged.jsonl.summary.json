@@ -1,0 +1,15 @@
+{
+ "judge": "google/gemini-3.6-flash",
+ "rubric": "persona",
+ "pairs": 20,
+ "failed": 0,
+ "counts": {
+  "base": 11,
+  "lora": 5,
+  "tie": 4
+ },
+ "winrate_no_ties_base": 0.6875,
+ "winrate_half_ties_base": 0.65,
+ "winrate_no_ties_lora": 0.3125,
+ "winrate_half_ties_lora": 0.35
+}

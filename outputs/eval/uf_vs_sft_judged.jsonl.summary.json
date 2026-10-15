@@ -1,0 +1,15 @@
+{
+ "judge": "google/gemini-3.6-flash",
+ "rubric": "general",
+ "pairs": 300,
+ "failed": 0,
+ "counts": {
+  "sft": 140,
+  "tie": 56,
+  "uf-dpo": 104
+ },
+ "winrate_no_ties_uf-dpo": 0.4262295081967213,
+ "winrate_half_ties_uf-dpo": 0.44,
+ "winrate_no_ties_sft": 0.5737704918032787,
+ "winrate_half_ties_sft": 0.56
+}
